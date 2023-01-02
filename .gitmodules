@@ -1,0 +1,12 @@
+[submodule "RedButtonByDavidMontenegro"]
+	path = RedButtonByDavidMontenegro
+	url = https://github.com/dnmontenegro/RedButtonByDavidMontenegro
+[submodule "SlidingPuzzleByDavidMontenegro"]
+	path = SlidingPuzzleByDavidMontenegro
+	url = https://github.com/dnmontenegro/SlidingPuzzleByDavidMontenegro
+[submodule "MazeByDavidMontenegro"]
+	path = MazeByDavidMontenegro
+	url = https://github.com/dnmontenegro/MazeByDavidMontenegro
+[submodule "amazebydavidmontenegro"]
+	path = amazebydavidmontenegro
+	url = https://github.com/dnmontenegro/amazebydavidmontenegro
