@@ -1,3 +1,3 @@
-# cs301
+# csci301
 
-Projects for cs301
+Projects for csci301
